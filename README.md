@@ -263,6 +263,8 @@ We provide `visualize.py`, an interactive Pygame-based dashboard serving as our 
   <br><br>
   <em>Figure 7: Input-output (12x12) and next step output (12x12) along with head (12x12) and neurons (8x8) grid by layers (3).</em>
 </div>
+
+
 ```bash
 pip install -r requirements.txt
 python visualize.py
