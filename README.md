@@ -366,7 +366,7 @@ python visualize.py
 4. Anthropic. "Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet." 2024.
 5. nostalgebraist. "Logit Lens." 2020.
 6. Arthur Conmy et al. "Towards Automated Circuit Discovery for Mechanistic Interpretability." *NeurIPS* 2023.
-
+7. Krychu. https://github.com/krychu/bdh/tree/main.
 ---
 
 ## Repository Structure
