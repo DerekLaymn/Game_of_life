@@ -263,6 +263,13 @@ Key insights:
 ## 9. Interactive Visualizer (`visualize.py`)
 
 We provide `visualize.py`, an interactive Pygame-based dashboard serving as our **Activation Atlas**.
+<div align="center">
+
+!Game of life interactive(assets/visualize_1.png)(aaets/visualize_2.png)
+
+*Figure 7: Input-output(12x12) and next step output(12x12) along with head(12x12) and neurons(8x8) grid by layers(3).
+
+</div>
 
 ```bash
 pip install -r requirements.txt
